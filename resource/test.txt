@@ -1,0 +1,1 @@
+2023-11-24T17:01:13+00:00	2023-11-24 17:01:13.166  INFO [java-app-enrichment-service-billing-docs,,] 7 --- [ntainer#1-0-C-1] c.e.g.e.kafka.retry.RetryService         : Successfully sent message to topic awie.cck.g3.prod.eis.billing.events.DocumentEvent.1.awie.cck.g3.prod.eis.events.EnrichmentServiceBillingDocuments.Cg.1.1.RETRY with key 80094906.
